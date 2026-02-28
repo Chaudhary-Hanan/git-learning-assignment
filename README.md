@@ -1,1 +1,1 @@
-# Git Learning Assignment.
+# Git Learning Assignment
